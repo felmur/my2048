@@ -11,10 +11,7 @@ Please, add a mention to my work if you use this sources
 This is a C & ncurses version of famous 2048 game
 
 COMPILATION:
-mkdir build
-cd build
-cmake ../
-make
+mkdir build ; cd build ; cmake ../ ; make
 
 run the game in a linux console using: ./my2048
 
